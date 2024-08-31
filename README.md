@@ -3,7 +3,7 @@
 ## Resumen Técnico
 - Alumno: <Federico Pérez Trench>
 - Género/s: <FPS de acción-sigilo>
-- Camara: <Primera Persona>
+- Camara: <Primera persona>
 - Adicional: <Quests | Equipo>
 
 ## TP4
